@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- created with XMLSpear -->
+<?xml version="1.0" encoding="utf-8"?>
 <Все>
-   <Инструменты>
-<Языки>
+  <Инструменты>
+    <Языки>
 C
 C++
 Pascale/TurboPascale
@@ -17,6 +16,6 @@ Ruby
 Assembler
 Fortran
 </Языки>
- <Инструменты>
+ </Инструменты>
 </Все>
 
